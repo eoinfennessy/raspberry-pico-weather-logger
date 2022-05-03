@@ -1,0 +1,7 @@
+{
+    "filename": "test",
+    "minutes_between_logs": 1,
+    "i2c_bus_id": 1,
+    "scl_pin": 7,
+    "sda_pin": 6
+}
